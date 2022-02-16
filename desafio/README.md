@@ -59,10 +59,27 @@ $ Agora basta executar as Questões separadamente clicando na setinha no canto s
 
 #
 - Questão 01: Escada de tamanho 'n'
+![](./1.gif)
 
 #
 - Questão 02: Validador de senhas
+![](./2.gif)
 
 #
 - Questão 03: Anagramas
+![](./3.gif)
 
+### ✒️ Autor
+
+</br>
+
+<a href="https://github.com/gabriel61">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/gabriel61" width="100px;" alt=""/>
+ <br />
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-gabrielsampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-852759190/)](https://www.linkedin.com/in/gabriel-oliveira-852759190/)
+<br>
+sogabris@gmail.com
+<br>
+
+---
